@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-test",
   "fhirVersion": "[4.0.1]",
-  "date": "20220309105408",
+  "date": "20220309114749",
   "name": "hepainformatics.fhir.hepatitis-ig"
 }
