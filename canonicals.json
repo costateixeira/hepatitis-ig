@@ -33,5 +33,12 @@
     "url": "http://hepainformatics.org/fhir/hepatitis-ig/ImplementationGuide/hepatitis-ig",
     "version": "0.1.0-test",
     "name": "HepatitisIG"
+  },
+  {
+    "id": "myquestionnaire",
+    "type": "Questionnaire",
+    "url": "http://hepainformatics.org/fhir/hepatitis-ig/Questionnaire/myquestionnaire",
+    "version": "0.1.0-test",
+    "name": "myquestionnaire"
   }
 ]

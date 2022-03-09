@@ -11,7 +11,7 @@
   "title": "Hepatitis B and C Implementation Guide",
   "status": "draft",
   "experimental": false,
-  "date": "2022-03-09T10:37:53+00:00",
+  "date": "2022-03-09T10:52:04+00:00",
   "publisher": "Hepainformatics",
   "contact": [
     {
@@ -393,6 +393,18 @@
         },
         "name": "hepainformatics Disease Status Evidence Type Value Set",
         "description": "The type of evidence backing up the clinical determination of hepatitis progression."
+      },
+      {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+            "valueString": "Questionnaire"
+          }
+        ],
+        "reference": {
+          "reference": "Questionnaire/myquestionnaire"
+        },
+        "name": "VIRAL HEPATITIS CASE REPORT FORM"
       },
       {
         "extension": [
